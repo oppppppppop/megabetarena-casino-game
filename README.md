@@ -230,6 +230,12 @@ MIT
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
+## Contact
+
+For questions, support, or collaboration opportunities:
+
+- **Telegram**: [@blategold](https://t.me/blategold)
+
 ---
 
 <div align="center">
