@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![MegaBetArena Hero Banner](./assets/images/hero-banner.jpg)
-
 **A decentralized casino platform built on Solana blockchain, featuring multiple games, real-time betting, and transparent on-chain transactions.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
