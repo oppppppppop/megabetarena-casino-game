@@ -56,29 +56,6 @@ megabetarena/
 - 🔄 **Real-Time Updates**: WebSocket support for live game updates
 - 🎯 **Transparent**: All game results verifiable on-chain
 
-### Featured Games
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="./assets/images/coinflip-game.jpg" alt="Coinflip Game" width="200"/>
-<br/><strong>Coinflip</strong>
-</td>
-<td align="center">
-<img src="./assets/images/dice-game.jpg" alt="Dice Game" width="200"/>
-<br/><strong>Dice</strong>
-</td>
-<td align="center">
-<img src="./assets/images/slots-game.jpg" alt="Slots Game" width="200"/>
-<br/><strong>Slots</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
 ## Tech Stack
 
 ### Backend
